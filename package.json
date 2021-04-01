@@ -1,0 +1,23 @@
+{
+  "name": "ss-book",
+  "version": "1.0.0",
+  "description": "GitBook demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuHan1/ss-book.git"
+  },
+  "keywords": [],
+  "author": "suhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuHan1/ss-book/issues"
+  },
+  "homepage": "https://github.com/SuHan1/ss-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
